@@ -1,2 +1,0 @@
-My DevOps Journey - Day 1.
-Learning Git Basics is fun !
